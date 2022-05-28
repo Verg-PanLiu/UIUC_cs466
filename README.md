@@ -1,7 +1,22 @@
-UIUC CS 466 Final Project Spring 2022 
-Team: Pan Liu @ Ruike Zhu
+# UIUC CS 466 Final Project Spring 2022 
+
+This is the repo for 598DLH final project.
+
+- Ruike Zhu
+- Pan Liu
+
+## Problem 
+
+The project involves developing a “motif finding” program and testing it. The goal 
+of motif finding is the detection of unknown signals in a set of DNA sequences. In 
+our project, given generated sequences, the program is going to find expectation of 
+motifs and sites.
+
+## How to run 
 
 Please follow the instructions below to run the code.
 
-1. Run: python generate_benchmark.py
-2. Run: python evaluate.py
+```
+python generate_benchmark.py
+python evaluate.py
+```
