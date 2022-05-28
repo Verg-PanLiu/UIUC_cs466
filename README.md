@@ -1,6 +1,6 @@
 # UIUC CS 466 Final Project Spring 2022 
 
-This is the repo for 598DLH final project.
+This is the repo for CS 466 final project.
 
 - Ruike Zhu
 - Pan Liu
